@@ -1,0 +1,12 @@
+body {background-color: rgb(26, 33, 49); color:rgb(43, 179, 31); text-align: center; text-shadow: 2px 2px 4px #88a325; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+h2 {color:rgb(131, 219, 123); text-align: center; text-decoration: underline;}
+table {align-items: center;}
+.cell {width:40px; height:40px;text-align: center}
+.cell img {width:30px; height:auto}
+.sky {background-color: rgb(29, 31, 39)}
+.wall {background-color: rgb(85, 17, 17)}
+.earth {background-color: rgb(28, 121, 131);}
+.earth img {width: 40px}
+
+
+
